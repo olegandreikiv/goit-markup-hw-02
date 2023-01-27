@@ -41,7 +41,7 @@ body {
 }
 
 .header-logo {
-  font-family: "Raleway";
+  font-family: "Raleway", sans-serif;
   font-weight: 800;
   font-size: 18px;
   line-height: 1.33;
@@ -76,7 +76,7 @@ body {
 
 .header-mail,
 .header-phone {
-  font-family: "Roboto";
+  font-family: "Roboto", sans-serif;
   font-style: normal;
   font-size: var(--fontsize);
   line-height: var(--height);
@@ -86,7 +86,7 @@ body {
 
 .header-link:hover,
 .header-link:focus {
-  font-family: "Roboto";
+  font-family: "Roboto", sans-serif;
   font-weight: 500;
   font-size: var(--fontsize);
   line-height: var(--height);
@@ -96,7 +96,7 @@ body {
 
 .header-mail:hover,
 .header-mail:focus {
-  font-family: "Roboto";
+  font-family: "Roboto", sans-serif;
   font-size: var(--fontsize);
   line-height: var(--height);
   letter-spacing: 0.02em;
@@ -128,7 +128,7 @@ body {
 }
 
 .hero-text {
-  font-family: "Roboto";
+  font-family: "Roboto", sans-serif;
   font-weight: 500;
   font-size: var(--fontsize);
   line-height: var(--height);
@@ -215,7 +215,7 @@ body {
 }
 
 .footer-link {
-  font-family: "Raleway";
+  font-family: "Raleway", sans-serif;
   font-weight: 800;
   font-size: 18px;
   line-height: 1.166;
